@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fec450f0e2be7724f8314646d75eec03
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244514
+  packageName: Road System - Low Poly Roads with Street and Traffic Lights
+  packageVersion: 1.0
+  assetPath: Assets/Low_Poly_Road_Pack/Scripts/CarTrafficLightGreen.cs
+  uploadId: 609087

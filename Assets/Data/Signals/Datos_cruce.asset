@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a52920414283fe44ba7a3cbd5633bf4, type: 3}
+  m_Name: Datos_cruce
+  m_EditorClassIdentifier: Assembly-CSharp::TrafficSignData
+  nombreSenal: Cruce vias
+  prefabSenal: {fileID: 3602909584047871214, guid: b9a680453e12f5e49907cba3ea5c140b, type: 3}
+  spriteSenal: {fileID: 21300000, guid: 9a61fc2d933f09b488da74f69bbb8160, type: 3}
+  nivelDificultad: 1
